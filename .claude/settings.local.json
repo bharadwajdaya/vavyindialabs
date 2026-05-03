@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(xargs sed *)",
+      "WebFetch(domain:play.google.com)"
+    ]
+  }
+}
