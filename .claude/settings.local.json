@@ -9,7 +9,8 @@
       "Bash(npm run *)",
       "Bash(curl -s http://localhost:5173/)",
       "Bash(xargs sed *)",
-      "WebFetch(domain:play.google.com)"
+      "WebFetch(domain:play.google.com)",
+      "Bash(git *)"
     ]
   }
 }
